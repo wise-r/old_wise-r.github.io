@@ -1,7 +1,7 @@
 ---
 lay: post
 title:  "怎么使用WISER网站"
-date:   2015-10-08 7:35:59
+date:   2015-10-08
 categories: 
 - Tutorial 
 tags:
