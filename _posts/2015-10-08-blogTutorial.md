@@ -9,9 +9,12 @@ tags:
 
 ---
 
-> <http://wise-r.github.io/>是 WISER CLUB的官方主页。
 
 ## Prequalification
+---
+
+> <http://wise-r.github.io/>是 WISER CLUB的官方主页。
+
 
 1. [Github](https://github.com/) 账户
 2. 加入[WISE-R](https://github.com/wise-r) organization， 并获得权限。
@@ -31,6 +34,8 @@ tags:
 2. [Mac](http://jekyll.bootcss.com/docs/installation/) 貌似Mac是自带Ruby的
 
 ## Clone[WISER](https://github.com/wise-r/wise-r.github.io)
+---
+
 
 ### 如果你没安装GIT
 安装`Git`, 简单教程[廖雪峰教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)，目前你还不需要全部掌握
@@ -42,6 +47,8 @@ git clone git@github.com:wise-r/wise-r.github.io.git
 ```
 
 ## 更新blog
+---
+
 ### 撰写blog
 
 ```
