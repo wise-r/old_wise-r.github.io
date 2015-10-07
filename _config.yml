@@ -14,8 +14,7 @@ defaults:
     values:
       title: WISER Club
 
-description: WISE R Club is a study group in WISE set up by Xiaojun Sun and Xi Liu in Jun 20, 2014. 
-It's a place where you can find people to learn R together. It's free and self-motivated.
+description: WISE R Club is a study group in WISE set up by Xiaojun Sun and Xi Liu in Jun 20, 2014. It's a place where you can find people to learn R together. It's free and self-motivated.
 author:
   name: WISER Club
   email: xmuwiserclub@163.com
