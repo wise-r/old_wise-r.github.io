@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Introduction to WISER Club
-date: date:   2015-10-08 01:15:59
+title:  "WISE R Club"
+date:   2015-10-08 6:35:59
 categories: 
--Policy
-tags: 
--R 
--WISER
-description: Sample placeholder post.
+- Policy 
+tags:
+- WISER
+
 ---
 
 
