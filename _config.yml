@@ -10,7 +10,7 @@ disqus: wise-r
 defaults:
   -
     scope:
-      path: "" # empty string for  files
+      path: "" # empty string for all files
     values:
       title: WISER Club
 
