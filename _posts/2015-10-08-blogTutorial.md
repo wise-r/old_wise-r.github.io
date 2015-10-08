@@ -1,13 +1,16 @@
 ---
-lay: post
+layout: post
 title:  "怎么使用WISER网站"
-date:   2015-10-08
+date:   2015-10-08 7:35:59
 categories: 
-- Tutorial 
+- Policy 
 tags:
 - WISER
 
 ---
+
+
+
 
 
 ## Prequalification
