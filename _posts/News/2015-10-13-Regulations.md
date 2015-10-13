@@ -118,8 +118,8 @@ This is a test
 **i. 文本处理与文本分析工具：stringr, tm**
 （*Text Analysis: stringr, tm*）
 
-**j. R语言的交互应用：RShiny**
-（*Interact with R: RShiny*）
+**j. R语言的交互应用：shiny**
+（*Interact with R: shiny*）
 
 **k. 多元统计方法的R语言实现：聚类，分类，与其他模型**
 （*Multivariate Analysis in R: Cluster, Classification, and Other Models*）
