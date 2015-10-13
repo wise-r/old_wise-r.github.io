@@ -116,7 +116,7 @@ article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family:SimSun;
+	font-family:'Hiragino Sans GB','Microsoft Yahei',"WenQuanYi Micro Hei",SimSun,Tahoma,Arial,Helvetica,STHeiti;
 	color: #262626;
 }
 
@@ -140,7 +140,7 @@ article.home h4 a:hover {
 
 footer {
 	padding-top: 15px;
-	font-family: font-family:SimSun;
+	font-family:'Hiragino Sans GB','Microsoft Yahei',"WenQuanYi Micro Hei",SimSun,Tahoma,Arial,Helvetica,STHeiti;
 }
 
 /* nav-vertical-tabs component */
