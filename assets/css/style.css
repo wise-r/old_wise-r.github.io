@@ -105,8 +105,8 @@ article {
 	padding: 0 5% 0;
 }
 
-article.home div a, article.home pre a { color: #80000b; }
-article.home div a:hover, article.home pre a:hover { color: #80000b; text-decoration: none; }
+article.home div a, article.home pre a { color: #262626; }
+article.home div a:hover, article.home pre a:hover { color: #262626; text-decoration: none; }
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
