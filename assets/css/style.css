@@ -82,7 +82,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #000000;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -130,7 +130,7 @@ article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+	color: #262626;
 }
 
 .author .author-image {
