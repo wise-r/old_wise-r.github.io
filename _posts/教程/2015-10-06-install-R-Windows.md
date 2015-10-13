@@ -20,6 +20,7 @@ tags:
 </div>
 </section><!-- /#table-of-contents -->
 
+<div class="mod_player" id="mod_player"><div id="mod_tenvideo_flash_player_1444705896923"><embed wmode="window" flashvars="vid=e0168csx1k6&amp;tpid=3&amp;showend=1&amp;showcfg=1&amp;searchbar=1&amp;shownext=1&amp;list=2&amp;autoplay=1&amp;ptag=www_baidu_com&amp;outhost=http%3A%2F%2Fv.qq.com%2Fpage%2Fe%2Fk%2F6%2Fe0168csx1k6.html&amp;openbc=0&amp;title=%20Windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85R%E5%92%8CR%EF%BC%8Dstudio" src="http://imgcache.qq.com/tencentvideo_v1/player/TencentPlayer.swf?max_age=86400&amp;v=20140714" quality="high" name="tenvideo_flash_player_1444705896923" id="tenvideo_flash_player_1444705896923" bgcolor="#000000" width="650px" height="472px" align="middle" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" pluginspage="http://get.adobe.com/cn/flashplayer/"></div></div>
 
 ## 1.安装R 
 
