@@ -3,11 +3,11 @@ layout: post
 title:  "Window下安装R和Rstudio"
 date:   2015-10-06 10:35:59
 categories: 
-- Tutorial 
+- 教程
 tags:
 - R
 - RStudio
-
+- Windows
 ---
 
 <section id="table-of-contents" class="toc">

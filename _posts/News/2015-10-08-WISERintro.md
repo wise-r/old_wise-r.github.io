@@ -3,7 +3,7 @@ layout: post
 title:  "WISE R Club"
 date:   2015-10-08 6:35:59
 categories: 
-- Policy 
+- News
 tags:
 - WISER
 

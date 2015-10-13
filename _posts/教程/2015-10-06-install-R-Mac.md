@@ -3,7 +3,7 @@ layout: post
 title:  "Mac下安装R和Rstudio"
 date:   2015-10-06 11:35:59
 categories: 
-- Tutorial 
+- 教程
 tags:
 - R
 - RStudio
