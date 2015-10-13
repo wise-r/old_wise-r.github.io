@@ -7,12 +7,10 @@ categories:
 tags:
 - R
 - Rclub
-description:
-This is a test
+
 
 ---
 
-# WISE R Club 章程与规划
 
 ## 一、 组织概况
 
