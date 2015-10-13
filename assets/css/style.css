@@ -109,14 +109,14 @@ article.home div a, article.home pre a { color: #262626; }
 article.home div a:hover, article.home pre a:hover { color: #262626; text-decoration: none; }
 article img { max-width: 100%; }
 
-h1,h2,h3,h4,h5,h6 { font-family:'Hiragino Sans GB','Microsoft Yahei',"WenQuanYi Micro Hei",SimSun,Tahoma,Arial,Helvetica,STHeiti;}
+h1,h2,h3,h4,h5,h6 { font-family:SimSun;}
 article.home h1,
 article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family:'Hiragino Sans GB','Microsoft Yahei',"WenQuanYi Micro Hei",SimSun,Tahoma,Arial,Helvetica,STHeiti;
+	font-family:SimSun;
 	color: #262626;
 }
 
@@ -140,7 +140,7 @@ article.home h4 a:hover {
 
 footer {
 	padding-top: 15px;
-	font-family: font-family:'Hiragino Sans GB','Microsoft Yahei',"WenQuanYi Micro Hei",SimSun,Tahoma,Arial,Helvetica,STHeiti;
+	font-family: font-family:SimSun;
 }
 
 /* nav-vertical-tabs component */
