@@ -121,37 +121,36 @@ WISE R Club的标志如上图所示，由王亚南经济研究院（WISE）的�
 
 暂定的一些专题建议有：
 
-**a. 高效数据处理工具（一）：data.table, dplyr** （
+ a. 高效数据处理工具（一）：data.table, dplyr** （
 *Advanced Data Management Tools - One: data.table, dplyr*）
 
-**b. 高效数据处理工具（二）：reshape2, pipeR, plyr**
+  b. 高效数据处理工具（二）：reshape2, pipeR, plyr**
 （*Advanced Data Management Tools - Two: reshape2, pipeR, plyr*）
 
-**c. R与数据库：SQL基础和RSQLite**
+  c. R与数据库：SQL基础和RSQLite**
 （*R and Database: basic knowledge of SQL and RSQLite*）
 
-**d. 数据可视化专题：ggplot2和其他工具**
+  d. 数据可视化专题：ggplot2和其他工具**
 （*Essentials of Data Visualization: ggplot2 and other fancy tools*）
 
-**e. 轻量级写作工具Markdown与学术写作工具LaTeX**
+  e. 轻量级写作工具Markdown与学术写作工具LaTeX**
 （*Writing Tools: Markdown (light weighted) and LaTeX (academic)*）
 
-**f. 基础计量方法的R语言实现：经典回归与时间序列分析**
+  f. 基础计量方法的R语言实现：经典回归与时间序列分析**
 （*Topics on Econometrics: implement classical regression and time series models in R*）
 
-**g. 提升你的运算效率：并行运算，代码分析，与Rcpp**
+  g. 提升你的运算效率：并行运算，代码分析，与Rcpp**
 （*Speed Up Your R: Parallel Computing, Profiling and Rcpp*）
-
-**h. R语言在金融量化分析中的应用：quantmod, TTR, fPortfolios, fOptions**
+  h. R语言在金融量化分析中的应用：quantmod, TTR, fPortfolios, fOptions**
 （*R in Finance Analysis: quantmod, TTR, fPortfolios, fOptions*）
 
-**i. 文本处理与文本分析工具：stringr, tm**
+  i. 文本处理与文本分析工具：stringr, tm**
 （*Text Analysis: stringr, tm*）
 
-**j. R语言的交互应用：shiny**
+  j. R语言的交互应用：shiny**
 （*Interact with R: shiny*）
 
-**k. 多元统计方法的R语言实现：聚类，分类，与其他模型**
+  k. 多元统计方法的R语言实现：聚类，分类，与其他模型**
 （*Multivariate Analysis in R: Cluster, Classification, and Other Models*）
 
 
@@ -190,23 +189,71 @@ RClub将不定期邀请数据科学工作者进行演讲，让同学们了解这
 
 符合要求并有意向的同学，可以在学年末向当届组委会提出申请。综合考量后，选拔五到六位同学形成下一届组委会，组织下一学年的活动。
 
-## 五、宣传与资料管理 
+## 五、交流互动平台与资料管理 
 
-### 1. 宣传平台
 
-目前设立几个宣传途径：
+为了帮助同学们更好的了解R Club, 及时获取R Club的课程资料信息，扩大R Club的影响里。我们建立了完善的交流互动与资料管理分享平台
+### 1. 交流互动平台
+#### a. 微信公众号
+微信公众号的功能和用途：
 
-a. 微信公众号： WiseRClub
+* 作为宣传工具，向关注者推送R club的最新动态；(`丑高武`)
+* 作为普及工具，转载或原创精选R语言或数据科学的的文章；（`成员推荐，高武更新`）
+* 作为课程辅助工具，课前告知上课时间和推荐资料，课后分享课程资料链接（`演讲人上传并告知石长顺更新`）；
+* 作为关注者反馈收集渠道，及时听取学员的意见（`丑高武维护，成员回答`）
 
-b. Github网站：<http://wise-r.github.io/>
+**关注方式：**   
 
-c. QQ 群: 373645300
++ 微信添加公众号搜索`xmuwiserclub`  
++ 使用微信扫一扫，扫描上方二维码
 
-### 2. 课件资源
- 
-a. Github： <https://github.com/wise-r>
+![QRCode](/assets/img/QRCode.jpg)
 
-b. 百度网盘: [xmuwiserclub@163.com](pan.baidu.com)
+#### b. WISE-R网站： <http://wise-r.github.io/>
+
+**wise-r.github.io** 是WISE R Club的官方博客,由`Github`+`Jekyll`+`MarkDown`搭建, 托管在Github组织（organization）[wise-r](https://github.com/wise-r)下，由石长顺负责更新。WISE-R网站主要作为WISE R Club的展示平台，会放置R Club的一些动态和课程信息，技术文档等。
+
+#### c. QQ 群: 373645300
+WISE R CLUB QQ 群由第一届负责人2013级硕士研究生孙小军创建。 目前由邓光宏维护。主要回答学员日常遇到的R语言问题，分享一些其他信息和资料。
+
+#### d. 官方邮箱。
+
+官方邮箱地址:<xmuwiserclub@163.com>, 主要用于
+
+* 作为官方邮箱，作为学员或其他个人或团体联系WISE R Club的方式之一；
+* 官方邮箱是注册微信和网盘，或以后其他新注册账户的指定邮箱。
+* 官方邮箱的密码及其他安全信息成员间知晓，**不对外公开**。
+
+### 2. 资料管理平台
+
+#### a. Github.
+
+> Git是一个分布式的版本控制系统.作为一个在线协作网站，GitHub允许程序员们分享和协力于开源项目的工作。现在，该网站已经迎来它五周岁的生日，用户数超过了350万，而且拥有超过600万的资料库。
+
+往届WISE R Club的老人在Github建立了组织WISE R Club：<https://github.com/wise-r> ，目前的结构如下，
+
+![wiserorg](/assets/img/wiserorg.png)
+
+* `wise-r.github.io`内是官方网站的内容，
+*  `R-Training`内是2014-2015学年的课程资料，
+
+我希望成员通过`Github` 托管我们的公开资料和代码，通过其进行在线协作， 我有几个想法，
+
+* 每个成员上课学习一下简单的`Github`指令，或使用[sourcetree](www.sourcetreeapp.com)、[mysgit](https://git-for-windows.github.io/)等图形工具，满足基本的上传协作用途；
+* 按照学期和基础培训/专题研讨建立2个repo， 如：`Rtrain15_base`,`Rtrain15_topic`, 
+* 每个演讲者的演示材料尽量使用`markdown`, `LaTeX`等纯文本格式编写，输出的文档最好为`.pdf`,`.md`或`html`等格式；
+* 尽量不要在`wise-r`仓库上传版权作品。
+
+#### b. 百度网盘
+
+
+百度网盘的优点是**空间大**、**速度快**、**易于分享**， **操作简便**， 可以作为和学员分享文件的主要渠道， 主要用途：
+
+* 上传课程资料， 供学员下载和转存；
+* 上传课程录制视频或其他转存和R有关的视频资料；
+* 上传推荐的版权R语言电子书资料。
+
+`注：百度网盘密码可以选择性公开`
 
 ## 六、2015年秋季学期的目标与活动安排
 
