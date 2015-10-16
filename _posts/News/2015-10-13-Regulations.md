@@ -122,36 +122,36 @@ WISE R Club的标志如上图所示，由王亚南经济研究院（WISE）的�
 
 暂定的一些专题建议有：
 
- a. 高效数据处理工具（一）：data.table, dplyr** （
+ a. **高效数据处理工具（一）：data.table, dplyr** （
 *Advanced Data Management Tools - One: data.table, dplyr*）
 
-  b. 高效数据处理工具（二）：reshape2, pipeR, plyr**
+  b. **高效数据处理工具（二）：reshape2, pipeR, plyr**
 （*Advanced Data Management Tools - Two: reshape2, pipeR, plyr*）
 
-  c. R与数据库：SQL基础和RSQLite**
+  c. **R与数据库：SQL基础和RSQLite**
 （*R and Database: basic knowledge of SQL and RSQLite*）
 
-  d. 数据可视化专题：ggplot2和其他工具**
+  d. **数据可视化专题：ggplot2和其他工具**
 （*Essentials of Data Visualization: ggplot2 and other fancy tools*）
 
-  e. 轻量级写作工具Markdown与学术写作工具LaTeX**
+  e. **轻量级写作工具Markdown与学术写作工具LaTeX**
 （*Writing Tools: Markdown (light weighted) and LaTeX (academic)*）
 
-  f. 基础计量方法的R语言实现：经典回归与时间序列分析**
+  f. **基础计量方法的R语言实现：经典回归与时间序列分析**
 （*Topics on Econometrics: implement classical regression and time series models in R*）
 
-  g. 提升你的运算效率：并行运算，代码分析，与Rcpp**
+  g. **提升你的运算效率：并行运算，代码分析，与Rcpp**
 （*Speed Up Your R: Parallel Computing, Profiling and Rcpp*）
-  h. R语言在金融量化分析中的应用：quantmod, TTR, fPortfolios, fOptions**
+  h. **R语言在金融量化分析中的应用：quantmod, TTR, fPortfolios, fOptions**
 （*R in Finance Analysis: quantmod, TTR, fPortfolios, fOptions*）
 
-  i. 文本处理与文本分析工具：stringr, tm**
+  i. **文本处理与文本分析工具：stringr, tm**
 （*Text Analysis: stringr, tm*）
 
-  j. R语言的交互应用：shiny**
+  j. **R语言的交互应用：shiny**
 （*Interact with R: shiny*）
 
-  k. 多元统计方法的R语言实现：聚类，分类，与其他模型**
+  k. **多元统计方法的R语言实现：聚类，分类，与其他模型**
 （*Multivariate Analysis in R: Cluster, Classification, and Other Models*）
 
 
@@ -168,16 +168,27 @@ RClub将不定期邀请数据科学工作者进行演讲，让同学们了解这
 
 ### 1. 申请会员的目的与要求
 
-希望长期参与RClub活动的同学需要申请成为会员。申请的主要目的是督促完成相关作业和任务，从而促使大家更好地理解相关的知识。同时，指导老师提供的课题与研究机会仅向已注册的同学开放，下届组织者也仅从积极参与的会员中选拔。
+希望长期参与RClub活动的同学需要申请成为会员。申请的主要目的是督促完成相关作业和任务，从而促使大家更好地理解相关的知识。同时，RClub将通过指导老师向会员提供以下机会：
 
-会员需要积极参与课程，并完成作业（如果有）。组织者将对参与情况进行记录。
+1. 可以参与到老师的课题项目；
 
+2. 有机会获得参与R语言会议的路费资助；
+
+3. 可以申请加入筹委会（具体要求见后文）。
+
+对会员的具体要求如下：
+
+1. 需要积极参与课程，不得连续三次以上缺席所选课程；
+
+2. 需要按时完成作业（如果有）。
+
+组织者将对以上两项的参与情况进行记录。
 
 没有申请会员的同学同样可以参与课程的学习。
 
 ### 2. 会员申请方法
 
-希望成为会员的同学可以通过微信公众号WiseRClub进行申请。申请时需要提供几个基本信息。（详细方式将在之后提供）
+希望成为会员的同学可以通过微信公众号WiseRClub进行申请。申请时需要填写相关表格，声明所要参加的系列（R语言基础培训，或专题研讨），并提供几个基本信息，。
 
 ### 3. 组织者选拔
 
@@ -267,12 +278,12 @@ WISE R CLUB QQ 群由第一届负责人2013级硕士研究生孙小军创建。 
 
 ### 2. R语言基础培训
 
-时间地点：单周周三晚7:00到9:00， N202 （10月21日开始第一次活动）
+时间地点：单周周三4:30-6:00， N202 （10月21日开始第一次活动）
 
 活动形式：按课程形式组织，按照课程提纲的顺序，每次由一位同学介绍R语言的基本方法。
 
 ### 3. 专题研讨与分享
 
-时间地点：双周周三晚7:00到9:00，N202（10月21日开始第一次活动）
+时间地点：双周周三4:30-6:00，N202  （10月21日开始第一次活动）
 
-活动形式：按专题的形式，分项一个R语言包，或者一个模型的应用。
+活动形式：按专题的形式，分享一个R语言包，或者一个模型的应用。
